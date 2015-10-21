@@ -1,5 +1,5 @@
 $(function){
 //ying just fot testing
-$testing = ;
+$testing = 1111;
 
 }
